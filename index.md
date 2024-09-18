@@ -2,8 +2,8 @@
 # Collection of Questionnaires to Assess Altered States Phenomena
 ---
 Last Update: 2024-09-18 |
-This collection is maintained by CIRCE e.V. (responsible scientist: [Dr. Timo Torsten Schmidt](https://scholar.google.de/citations?user=o5IBmAQAAAAJ&hl=en))
-* Please send us an E-Mail if you have additional information to update this page *
+This collection is maintained by CIRCE e.V. (responsible scientist: [Dr. Timo Torsten Schmidt](https://scholar.google.de/citations?user=o5IBmAQAAAAJ&hl=en)) <br /> 
+__Please send us an E-Mail if you have additional information to update this page!__
 
 ## Introduction
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
@@ -158,16 +158,12 @@ Besides the discussed above, please find some additional information and discuss
 * Schmidt & Majic 
 * Prugger et al. 2023
 * Dos Santos ...
-* 
+* Yaden et al. (2024) https://www.nature.com/articles/s44159-024-00345-6
 
 In our research we found the following additional tools, which are worth to note. Some of them might be of historical interest and are not in use anymore, others are designed to assess very specific aspects of ASC experiences:
-•	Assessment Schedule for Altered States of Consciousness (ASASC) (Quekelberghe 1991)
-•	Dimensions of the Meditative Experience (DME)
-•	Meditationstiefefragebogen (MTF)
-
-
-
-## References
+* Assessment Schedule for Altered States of Consciousness (ASASC) (Quekelberghe 1991)
+* Dimensions of the Meditative Experience (DME)
+* Meditationstiefefragebogen (MTF)
 
 
 ## Acknowledgement
@@ -179,6 +175,95 @@ Further we would like to thank the following researchers for providing us with f
 ## ToDos
 * Add Table 1
 * Add Table of content
+* Check out and add https://www.nature.com/articles/s41598-022-23056-5
 * Add Navigation
 * Check References and add missing references
 * Change Reference format BibTex/Markdown Format
+* Add questionnaires for Download as PDF with nice typesetting
+
+## References
+Abramson HA, Jarvik ME, Levine A, Kaufman MR, Hirsch MW (1955) Lysergic acid diethylamide (LSD-25): XV. The effects produced by substitution of a tap water placebo. J Psychol 40:367–383.<br /> 
+Arasteh K, Poudevida S, Farré M, Roset PN, Camí J (1999) Response patterns of the Spanish version of the 49-item short form of the Addiction Research Center Inventory after the use of sedatives, stimulants, and opioids. Drug Alcohol Depend 55:117–125.<br /> 
+Barrett FS, Johnson MW, Griffiths RR (2015) Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. J Psychopharmacol:0269881115609019-.<br /> 
+Bayne T, Hohwy J, Owen AM (2016) Are There Levels of Consciousness? Trends Cogn Sci 20:405–413.<br /> 
+Bodmer I (1989) Konstruktion des Fragebogens OAV zur quantitativen Erfassung aussergewöhnlicher Bewusstseinszustände (ABZ) [Construction of the questionnaire OAV for the quantitative assessment of altered states of consciousness]. (Unpublished diploma thesis). University of Zurich, Switzerland.<br /> 
+Bodmer I, Dittrich A, Lamparter D (1994) Aussergewöhnliche Bewusstseinszustände - Ihre gemeinsame Struktur und Messung [Altered states of consciousness - Their common structure and assessment]. In: Welten des Bewusstseins. Bd. 3 (Hofmann A, Leuner H, eds), pp 45–58. Berlin, Germany: Experimentelle Psychologie, Neurobiologie und Chemie.<br /> 
+Bouso JC, Pedrero-Perez EJ, Candy S, Alcazar-Corcoles MA (2016) Measuring the subjective: revisiting the psychometric properties of three rating scales that assess the acute effects of hallucinogens. J Clin Psychiatry:391–393.<br /> 
+Bowdle TA, Radant AD, Cowley DS, Kharasch ED, Strassman RJ, Roy-Byrne PP (1998) Psychedelic effects of ketamine in healthy volunteers: relationship to steady-state plasma concentrations.<br /> 
+Cardeña E, Lynn S, Krippner S (2000) Varieties of anomalous experience: Examining the scientific evidence. Var Anomalous Exp Examining Sci Evid 15:143–146.<br /> 
+Carhart-Harris R et al. (2016a) Neural correlates of the LSD experience revealed by multimodal neuroimaging. Proc Natl Acad Sci.<br /> 
+Carhart-Harris RL, Erritzoe D, Williams T, Stone JM, Reed LJ, Colasanti A, Tyacke RJ, Leech R, Malizia AL, Murphy K, Hobden P, Evans J, Feilding A, Wise RG, Nutt DJ (2012) Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. Proc Natl Acad Sci U S A 109:2138–2143.<br /> 
+Carhart-Harris RL, Kaelen M, Bolstridge M, Williams TM, Williams LT, Underwood R, Feilding A, Nutt DJ (2016b) The paradoxical psychological effects of lysergic acid diethylamide (LSD). :1379–1390.<br /> 
+Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W, Nutt DJ (2016c) Neural correlates of the LSD experience revealed by multimodal neuroimaging. Proc Natl Acad Sci USA:1–6.<br /> 
+Corlett PR, Frith CD, Fletcher PC (2009) From drugs to deprivation: a Bayesian framework for understanding models of psychosis. Psychopharmacology (Berl) 206:515–530.<br /> 
+Daniel C, Lovatt A, Mason OJ (2014) Psychotic-like experiences and their cognitive appraisal under short-term sensory deprivation. Front psychiatry 5:106.<br /> 
+Daniel C, Mason OJ (2015) Predicting psychotic-like experiences during sensory deprivation. Biomed Res Int 2015.<br /> 
+Dittrich A (1975) Zusammenstellung eines Fragebogens (APZ) zur Erfassung abnormer psychischer Zustände [Construction of a questionnaire (APZ) for assessing abnormal mental states]. Z Klin Psychol Psychiatr Psychother 23:12–20.<br /> 
+Dittrich A (1985) Ätiologie-unabhängige Strukturen veränderter Wachbewusstseinszustände. Stuttgart: Enke.<br /> 
+Dittrich A (1998) The standardized psychometric assessment of altered states of consciousness (ASCs) in humans. Pharmacopsychiatry 31 Suppl 2:80–84.<br /> 
+Dittrich A, Lamparter D, Maurer M (2006) 5D-ABZ: Fragebogen zur Erfassung Aussergewöhnlicher Bewusstseinszustände. Eine kurze Einführung [5D-ASC: Questionnaire for the assessment of altered states of consciousness. A short introduction]. Zürich, Switzerland.<br /> 
+Dittrich A, Lamparter D, Maurer M (2010) 5D-ASC: Questionnaire for the assessment of altered states of consciousness. A short introduction (3rd ed.). Zürich, Switzerland: PSIN PLUS.<br /> 
+Dittrich A, von Arx S, Staub S (1985) International Study on Altered States of Consciousness (ISASC) Summary of the Results. Ger J Psychol 9:319–339.<br /> 
+Doblin R (1991) Pahnke’s “Good Friday experiment” - A long-term follow-up and methodological critique. J Transpers Psychol 23:1–28.<br /> 
+Farthing GW (1991) Psychology of Consciousness. Prentice Hall.<br /> 
+Geyer MA, Vollenweider FX (2008) Serotonin research: contributions to understanding psychoses. Trends Pharmacol Sci 29:445–453.<br /> 
+Gouzoulis-Mayfrank E, Schreckenberger M, Sabri O, Arning C, Thelen B, Spitzer M, Kovar KA, Hermle L, Bull U, Sass H (1999) Neurometabolic effects of psilocybin, 3,4-methylenedioxyethylamphetamine (MDE) and d-methamphetamine in healthy volunteers. A double-blind, placebo-controlled PET study with [18F]FDG. Neuropsychopharmacology 20:565–581.<br /> 
+Greyson B (1983) The near-death experience scale. Construction, reliability, and validity. J Nerv Ment Dis 171:369–375.<br /> 
+Griffiths R, Richards W, Johnson M, McCann U, Jesse R (2008) Mystical-type experiences occasioned by psilocybin mediate the attribution of personal meaning and spiritual significance 14 months later. J Psychopharmacol 22:621–632.<br /> 
+Griffiths RR, Johnson MW, Richards WA, Richards BD, McCann U, Jesse R (2011) Psilocybin occasioned mystical-type experiences: immediate and persisting dose-related effects. Psychopharmacology (Berl) 218:649–665.<br /> 
+Griffiths RR, Richards WA, McCann U, Jesse R (2006) Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. Psychopharmacology (Berl) 187:268-283-292.<br /> 
+Haertzen CA (1974) An overview of addiction research center inventory scales (ARCI): Appendix and manual of scales. National Institute of Drug Abuse: Rockville.<br /> 
+Haertzen CA, Hickey JE (1987) Addiction Research Center Inventory (ARCI): Measurement of euphoria and other drug effects. In: Methods of assessing the reinforcing properties of abused drugs (Bozarth MA, ed), pp 489–524. New York: Springer.<br /> 
+Haertzen CA, Hill HE, Belleville RE (1963) Development of the Addiction Research Center Inventory (ARCI): Selection of items that are sensitive to the effects of various drugs. Psychopharmacologia 4:155–166.<br /> 
+Hill H, Haertzen C, Wolbach A, Miner E (1963a) The Addictive Research Center Inventory: Appendix I. Items Comprising Empirical Scales for Seven Drugs II. Items which Do Not Differeniate Placebo from any Drug Condition. Psychopharmacologia 4:184–205.<br /> 
+Hill HE, Haertzen CA, Wolbach AB, Miner EJ (1963b) The Addiction Research Center Inventory: Standardization of scales which evaluate subjective effects of morphine, amphetamine, pentobarbital, alcohol, LSD-25, pyrahexyl and chlorpromazine. Psychopharmacologia 4:167–183.<br /> 
+Hood RW (1975) The construction and preliminary validation of a measure of reported mystical experience. J Sci Study Relig 14:29–41.<br /> 
+Hood RW, Ghorbani N, Watson PJ, Ghramaleki AF, Bing MN, Davison HK, Morris RJ, Williamson WP (2001) Dimensions of the Mysticism Scale: Confirming the Three-Factor Structure in the United States and Iran. J Sci Study Relig 40:691–705.<br /> 
+James W (1901) Varieties of religious experience. New York: New American Library.<br /> 
+Jasinski DR, Martin WR, Hoeldtke RD (1971) Studies of the dependence-producing properties of GPA-1657, profadol and proplram in man. Clin Pharmacol Ther 12:613–649.<br /> 
+Johnson MW, MacLean KA, Reissig CJ, Prisinzano TE, Griffiths RR (2011) Human psychopharmacology and dose-effects of salvinorin A, a kappa opioid agonist hallucinogen present in the plant Salvia divinorum. Drug Alcohol Depend 115:150–155.<br /> 
+Kjellgren A, Lindahl A, Norlander T (2009) Altered states of consciousness and mystical experiences during sensory isolation in flotation tank: Is the highly sensitive personality variable of importance? IMAGINATlON, Cogn Personal 29:135–146.<br /> 
+Kjellgren A, Sundequist U, Norlander T, Archer T (2001) Effects of flotation-REST on muscle tension pain. Pain Res Manag 6:181–189.<br /> 
+Lamas X, Farré M, Llorente M, Camí J (1994) Spanish version of the 49-item short form of the Addiction Research Center inventory. Drug Alcohol Depend 35:203–209.<br /> 
+Leary T, Litwin G, Metzner R (1963) Reaction to psilocybin administered in a supportive environment. J Nerv Ment Dis:561–573.<br /> 
+Lebedev A V., Lövdén M, Rosenthal G, Feilding A, Nutt DJ, Carhart-Harris RL (2015) Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. Hum Brain Mapp 36:3137–3153.<br /> 
+Linton H, Langs R (1962) Placebo Reaction in a Study of Lysergic Acid Diethylamide (LSD-25). Arch Gen Psychiatry.<br /> 
+MacLean KA, Johnson MW, Griffiths RR (2011) Mystical experiences occasioned by the hallucinogen psilocybin lead to increases in the personality domain of openness. J Psychopharmacol 25:1453–1461.<br /> 
+MacLean KA, Leoutsakos J-MS, Johnson MW, Griffiths RR (2012) Factor Analysis of the Mystical Experience Questionnaire: A Study of Experiences Occasioned by the Hallucinogen Psilocybin. J Sci Study Relig 51:721–737.<br /> 
+Majic T, Schmidt TT, Gallinat J (2015) Peak experiences and the afterglow phenomenon: When and how do therapeutic effects of hallucinogens depend on psychedelic experiences? J Psychopharmacol 29:241–253.<br /> 
+Martin W, Sloan J, Sapira J, Jasinski D (1971) Physiologic, subjective, and behavioral effects of amphetamine, methamphetamine, ephedrine, phenmetrazine, and methylphenidate in man. Clin Pharmacol Ther 12:245–258.<br /> 
+Mason OJ, Brady F (2009) The psychotomimetic effects of short-term sensory deprivation. J Nerv Ment Dis 197:783–785.<br /> 
+Mason OJ, Morgan CJM, Stefanovic A, Curran HV (2008) The Psychotomimetic States Inventory (PSI): Measuring psychotic-type experiences from ketamine and cannabis. Schizophr Res 103:138–142.<br /> 
+McCrae RR, Costa PT (2004) A contemplated revision of the NEO Five-Factor Inventory. Pers Individ Dif 36:587–596.<br /> 
+Metzner R (2005) Psychedelic, Pschoactive, and Addictive Drugs and States of Consciousness. In: Mind-Altering Drugs: The Science of Subjective Experience (Earleywine M, ed), pp 25–48. Oxford University Press.<br /> 
+Muthukumaraswamy SD, Carhart-Harris RL, Moran RJ, Brookes MJ, Williams TM, Errtizoe D, Sessa B, Papadopoulos A, Bolstridge M, Singh KD, Feilding A, Friston KJ, Nutt DJ (2013) Broadband cortical desynchronization underlies the human psychedelic state. J Neurosci 33:15171–15183.<br /> 
+Nour MM, Evans L, Nutt D, Carhart-Harris RL (2016) Ego-Dissolution and Psychedelics: Validation of the Ego-Dissolution Inventory (EDI). Front Hum Neurosci 10:269 Available at: http://www.ncbi.nlm.nih.gov/pubmed/27378878 [Accessed October 28, 2016].<br /> 
+Nutt DJ, King LA, Nichols DE (2013) Effects of Schedule I drug laws on neuroscience research and treatment innovation. Nat Rev Neurosci 14:577–585.<br /> 
+Pahnke WN (1963) Drugs and mysticism: An analysis of the relationship between psychedelic drugs and the mystical consciousness . Harvard University Press.<br /> 
+Pahnke WN (1966) Drugs and Mysticism. Int J Parapsychol 8:295–314.<br /> 
+Passie T (2007) Bewusstseinszustände: Konzeptualisierung und Messung. LIT; Auflage: 1., Aufl. (August 2007).<br /> 
+Pekala R (1982) The Phenomenology of Consciousness Inventory. Thorndale PA: Psychophenomenological Concepts (now published by Mid-Atlantic Educational Institute, See Pekala 2001).<br /> 
+Pekala R (1991) Quantifying Consciousness: An Empirical Approach. New York: Plenum Press.<br /> 
+Pekala R (1995) A Short, Unobtrusive Hypnotic-Assessment Procedure for Assessing Hypnotizability Level: I. Development and Research. Am J Clin Hypn 37:271–283.<br /> 
+Riba J, Anderer P, Jané F, Saletu B, Barbanoj MJ (2004) Effects of the South American psychoactive beverage Ayahuasca on regional brain electrical activity in humans: A functional neuroimaging study using low-resolution electromagnetic tomography. Neuropsychobiology 50:89–101.<br /> 
+Riba J, Rodríguez-Fornells A, Strassman RJ, Barbanoj MJ (2001) Psychometric assessment of the Hallucinogen Rating Scale. Drug Alcohol Depend 62:215–223.<br /> 
+Rux (2002) Erprobung der deutschen Übersetzung des Phenomenology of Consciousness Inventory von Pekala: Normwerte, Gütekriterien, Änderungsvorschläge.<br /> 
+Scharfetter C (1981) Ego-psychopathology: the concept and its empirical evaluation. Psychol Med 11:273–280.<br /> 
+Scharfetter C (1995) The Self-experience of Schizophrenics: Empirical Studies of the Ego/self in Schizophrenia, Borderline Disorders and Depression. Psychiatric University Hospital.<br /> 
+Schmid Y, Enzler F, Gasser P, Grouzmann E, Preller KH, Vollenweider FX, Brenneisen R, Müller F, Borgwardt S, Liechti ME (2015) Acute effects of lysergic acid diethylamide in healthy subjects. Biol Psychiatry 78:544–553.<br /> 
+Shor RE (1960) The frequency of naturally occurring “hypnotic-like” experiences in the normal college population. Int J Clin Exp Hypn 8:151–163.
+Steeds H, Carhart-Harris RL, Stone JM (2015) Drug models of schizophrenia. Ther Adv Psychopharmacol 5:43–58.<br /> 
+Strassman RJ, Qualls CR, Uhlenhuth EH, Kellner R (1994) Dose-response study of N,N-dimethyltryptamine in humans. II. Subjective effects and preliminary results of a new rating scale. Arch Gen Psychiatry 51:98–108.<br /> 
+Studerus E (2012) Tolerability, Assessment, and Prediction of Psilocybin-Induced Altered States of Consciousness. Zürich, Switzerland: PhD thesis.<br /> 
+Studerus E, Gamma A, Kometer M, Vollenweider FX (2012) Prediction of Psilocybin Response in Healthy Volunteers. PLoS One 7:e30800.<br /> 
+Studerus E, Gamma A, Vollenweider FX (2010) Psychometric evaluation of the altered states of consciousness rating scale (OAV).<br /> 
+Tagliazucchi E, Roseman L, Kaelen M, Orban C, Muthukumaraswamy SD, Murphy K, Laufs H, Leech R, McGonigle J, Crossley N, Bullmore E, Williams T, Bolstridge M, Feilding A, Nutt DJ, Carhart-Harris R (2016) Increased Global Functional Connectivity Correlates with LSD-Induced Ego Dissolution. Curr Biol 26:1043–1050 Available at: http://www.ncbi.nlm.nih.gov/pubmed/27085214 [Accessed October 28, 2016].<br /> 
+Tancer ME, Johanson C-E (2007) The effects of fluoxetine on the subjective and physiological effects of 3,4-methylenedioxymethamphetamine (MDMA) in humans. Psychopharmacol 189:565–573.<br /> 
+Tart CT (1972) States of Consciousness and State-Specific Sciences. Science 176:1203–1210.<br /> 
+Taylor E (1983) William James on Exceptional Mental States: The 1896 Lowell Lectures. Scribner (September 1983).<br /> 
+Vaitl D (2012) Veränderte Bewusstseinszustände. Stuttgart: Schattauer GmbH.<br /> 
+Vaitl D, Birbaumer N, Gruzelier J, Jamieson G a, Kotchoubey B, Kübler A, Lehmann D, Miltner WHR, Ott U, Pütz P, Sammer G, Strauch I, Strehl U, Wackermann J, Weiss T (2005) Psychobiology of altered states of consciousness. Psychol Bull 131:98–127.<br /> 
+van Quekelberghe R, Altstoetter-Gleich C, Hertweck E (1991) Assessment schedule for altered states of consciousness: A brief report. JP 55:377–390.<br /> 
+Vollenweider FX, Kometer M (2010) The neurobiology of psychedelic drugs: implications for the treatment of mood disorders. Nat Rev Neurosci 11:642–651.<br /> 
+Warot D, Danjou P, Payan C, Puech AJ (1997) Sensitivity and specificity to amphetamine of a French version of the 49-item form of the Addiction Research Center Inventory. Drug Alcohol Depend 45:177–183.<br /> 
+Yeginer A (2000) Forschungsinstrumente der Transpersonalen Psychologie. Bibliotheks- und Informationssystem der Universität Oldenburg.<br /> 
