@@ -1,11 +1,11 @@
 ---
-# title: Collection of Questionnaires to Assess Altered States Phenomena
+# Collection of Questionnaires to Assess Altered States Phenomena
 ---
 
-# Awesome Project
+### Version
 Last Update: 2024-09-18 by Dr. Timo Torsten Schmidt
 This collection is maintained by the CIRCE e.V. Team
-Please find an acknowledgement of the history of contributions by multiple people to this collection.
+Please find an acknowledgement with the history of the collection and contributions
 
 ## Introduction
 
