@@ -5,6 +5,10 @@ Last Update: 2024-09-18 |
 This collection is maintained by CIRCE e.V. (responsible scientist: [Dr. Timo Torsten Schmidt](https://scholar.google.de/citations?user=o5IBmAQAAAAJ&hl=en)) <br /> 
 __Please send us an E-Mail if you have additional information to update this page!__
 
+## Additional Resources
+Please find a slides of the workshop [The Empirical Study of Altered States of Consciousness](https://www.researchgate.net/publication/382366098_The_Empirical_Study_of_Altered_States_of_Consciousness_ASSC_Tutorial) (2024) given at the ASSC conference by Dr. Timo Torsten Schmidt, Larry Fort and Cyril Costines on ResearchGate
+
+
 ## Introduction
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
 Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. We included where currently new versions are under development. 
