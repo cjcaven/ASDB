@@ -1,5 +1,5 @@
 ---
-title: Collection of Questionnaires to Assess Altered States Phenomena
+# title: Collection of Questionnaires to Assess Altered States Phenomena
 ---
 
 # Awesome Project
