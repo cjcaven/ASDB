@@ -1,14 +1,17 @@
 ---
-title: Awesome Project
+title: Collection of Questionnaires to Assess Altered States Phenomena
 ---
 
 # Awesome Project
-
-![Awesome Project Logo](https://via.placeholder.com/150)
+Last Update: 2024-09-18 by Dr. Timo Torsten Schmidt
+This collection is maintained by the CIRCE e.V. Team
+Please find an acknowledgement of the history of contributions by multiple people to this collection.
 
 ## Introduction
 
-Welcome to the Awesome Project! This project aims to provide an easy-to-use tool for managing your awesome tasks efficiently and effectively.
+Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
+Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. We included where currently new versions are under development. 
+
 
 ## Features
 
@@ -38,3 +41,10 @@ In terms of quality criteria, the German 5D-ASC and its former versions were rep
 Originally developed in German, the Altered State of Consciousness Rating Scale was translated into English and several other languages (Studerus et al., 2012). Recent application in neuroimaging studies demonstrates its wide acceptance and significance for the scientific study of ASCs (e.g., (Carhart-Harris et al., 2016a)). However, this questionnaire is, except for its earlier version APZ, is to the best of our knowledge not validated in other languages than German. 
 A adaption for the assessment of effects of Floating-REST has been reported and termed Experienced Deviation from the Normal State questionnaire (EDN) (Kjellgren et al., 2001). 
 A current trend in the field is to develop short and ultra-short version of questionnaires to take less time in the assessment. A 22-item version was used in the Altered eXperience Project (Schmidt et al. 2023), and we have heard about current attempts to validate a 11-item version (personal communication - We will post updates as soon as we have more information).
+
+
+## Acknowledgement
+The information in this section were collected over multiple years and many people contributed in different ways. Within two study projects in 2017-18 within teaching activities in the MSc program Cognitive Science at the Institute for Cognitive Science at the University of Osnabrück inital information on questionnaires was collected. These study projects were led by Dr. Timo Torsten Schmidt together with Dr. Axel Kohler and Dr. Uwe Friese. After completion of these study projects, several students from different institutions contributed to the collection within internships, labrotations and similar research related activities. 
+It was initially planned to publish an overview article and a corresponding manuscript was submitted to a journal. The editor of the journal advised to find a different format for publication and we agree that the accumulated collection of questionnaires (+corresponding background information) will be better accessible in a fully openly access format, which can regularily updated. 
+We would like to thank and acknowledge the important contributions of the following people (some of them planned as authors on the intended research article): Katharina Dworatzyk, Ada Drochner, Michal Ljubljanac, Artur Czeszumski, Chiara Carrera, Aliona Cerednicenco, Aalia Nosheen, Philipp Kuhnke, Eelke de Vries, Hendrik Berkemeyer, Renato Garita Figueiredo, Nisha Jagannathan, J Jang, A Kesfhava, J Schott, O Vakhovska, MC Vargas Rivero, Ann Xavier (We hope that we did not forget anyone - otherwise please let us know).
+Further we would like to thank the following researchers for providing us with furhter information, discussion and feedback on this collection: Maja Maurer, Rick Strassman, Robin Carhart-Harris, Roland J Pekala, Eric Studerus, Frederick Barrett.
