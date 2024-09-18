@@ -3,16 +3,13 @@
 ---
 Last Update: 2024-09-18 |
 This collection is maintained by CIRCE e.V. (responsible scientist: [Dr. Timo Torsten Schmidt](https://scholar.google.de/citations?user=o5IBmAQAAAAJ&hl=en))
-
-**Table of content:**
-(to be added)
+* Please send us an E-Mail if you have additional information to update this page *
 
 ## Introduction
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
 Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. We included where currently new versions are under development. 
 
 TABLE 1 - HERE
-
 
 ## Altered States of Consciousness Rating Scales (ASC-R)
 The currently used version(s) of the Altered States of Consciousness Rating Scale (ASC-R) (Dittrich et al., 2006, 2010) originated from two former versions and was originally developed in German. The ASC-R has become the most frequently used psychometric tools in the assessment of ASC phenomena. The development of the scale followed the assumption that ASCs have a common core that is independent of the particular induction method (ethiology-independent dimensions of altered states). Therefore, in contrast to other instruments, the ASC-R is supposed to investigate characteristics of ASCs that are invariant across various methods to induce ASCs, including both pharmacological (e.g., psilocybin, ketamine, DMT, MDMA) and non-pharmacological induction methods (e.g., sensory deprivation, hypnosis, autogenic training). However, it is noticeable in the item selection, that the original authors had a research focus on the effects of psychedelics. Over the course of more than 30 years, the questionnaire underwent several refinements. Due to a lack of systematic curation, there is currently different versions in use and confusion about how to analyze them and present results. To support future research we summarize the history of the questionnaire with its different versions and point to unfortunate ambiguities in how data is currently reported. 
@@ -156,10 +153,10 @@ The construction and validation was carried out in German and English, and both 
 
 ## Further instruments
 Besides the discussed above, please find some additional information and discussion of different Questionnaire tools in the following references: 
-* Yeginer, 2000;
-* Passie, 2007;
-* Schmidt & Majic;
-* Prugger et al. 2023;
+* Yeginer, 2000
+* Passie, 2007
+* Schmidt & Majic 
+* Prugger et al. 2023
 * Dos Santos ...
 * 
 
@@ -168,10 +165,9 @@ In our research we found the following additional tools, which are worth to note
 •	Dimensions of the Meditative Experience (DME)
 •	Meditationstiefefragebogen (MTF)
 
- … Please send us an E-Mail if you think that futher tools should be listed here…
 
 
-
+## References
 
 
 ## Acknowledgement
@@ -179,3 +175,10 @@ The information in this section were collected over multiple years and many peop
 It was initially planned to publish an overview article and a corresponding manuscript was submitted to a journal. The editor of the journal advised to find a different format for publication and we agree that the accumulated collection of questionnaires (+corresponding background information) will be better accessible in a fully openly access format, which can regularily updated. 
 We would like to thank and acknowledge the important contributions of the following people (some of them planned as authors on the intended research article): Katharina Dworatzyk, Ada Drochner, Michal Ljubljanac, Artur Czeszumski, Chiara Carrera, Aliona Cerednicenco, Aalia Nosheen, Philipp Kuhnke, Eelke de Vries, Hendrik Berkemeyer, Renato Garita Figueiredo, Nisha Jagannathan, J Jang, A Kesfhava, J Schott, O Vakhovska, MC Vargas Rivero, Ann Xavier (We hope that we did not forget anyone - otherwise please let us know).
 Further we would like to thank the following researchers for providing us with furhter information, discussion and feedback on this collection: Maja Maurer, Rick Strassman, Robin Carhart-Harris, Roland J Pekala, Eric Studerus, Frederick Barrett.
+
+## ToDos
+* Add Table 1
+* Add Table of content
+* Add Navigation
+* Check References and add missing references
+* Change Reference format BibTex/Markdown Format
