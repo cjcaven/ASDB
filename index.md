@@ -12,6 +12,10 @@ Please find a slides of the workshop [The Empirical Study of Altered States of C
 ## Introduction
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
 Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. We included where currently new versions are under development. 
+| Questionnaire  | Version name | Spalte 3  |
+|-----------|-----------|-----------|
+| Inhalt 1  | Inhalt 2  | Inhalt 3  |
+| Inhalt 4  | Inhalt 5  | Inhalt 6  |
 					
 ![image](https://github.com/user-attachments/assets/938d3cce-34f3-4153-8a9a-6f75dafeab0e)
 
